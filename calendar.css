@@ -1,0 +1,100 @@
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 0;
+    margin: 0;
+    
+ }
+  
+ td{
+     padding: 30px;
+     border-style: solid;
+     background-color: rgb(255, 255, 255);
+    
+
+ }
+  
+.table {
+     text-align: center;
+    margin-left: 25%;
+     border-collapse: collapse;
+ }
+  
+ th {
+    
+     font-weight: 1000;
+     height: 70px;
+     background-color:#98e7ff;
+     border: none;
+  
+ }
+  
+ table,
+ th,
+ td {
+     border: 1px solid;
+     text-align: center;
+     margin: 2%;
+    border-collapse: collapse;
+    
+ }
+  
+ #mark {
+     display: flex;
+     justify-content: center;
+     background-color: #80d0f0;
+     align-items: center;
+ }
+  
+ .select {  
+     margin: 2%;
+    text-align: center;
+  
+ }
+  
+  
+ #aux{
+     text-align: center;
+     margin-top: 10px;
+  
+ }
+ header{
+     padding: 2%;
+ }
+ select, input, button{
+     background-color:#79cff7;
+     color: #fff;
+     padding: 10px;
+     border-radius: 20px;
+ }
+ #veiculos{
+     margin-top:10px ;
+     background-color: #83b8f5;
+     padding: 20px;
+     align-items: center;
+    
+ }
+  
+ #aux.button:visited{
+     text-decoration: none;
+    
+  
+ }
+  
+ h1{
+     padding: 15px;
+     border-radius: 20px;
+     color: rgb(255, 255, 255);
+ }
+.text{
+    text-align: center;
+}
+footer{
+    display: fixed;
+    text-align: center;
+    color: white;
+    background-color: aqua;
+    padding: 40px;
+    margin: 0;
+    height: 50px;
+    vertical-align: middle;
+}
