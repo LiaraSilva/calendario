@@ -12,10 +12,11 @@ Nesse projeto, foi criado um Calendário-web na matéria de:
  
 ## Como podemos utilizar esse projeto?
  
- Esse projeto serve para agendar horarios de atendimento em salão, souber oque que cada cor é um agendamendo e de o que a pessoa vai fazer, e em quais dias eles terão que fazer esses agendamentos. Porém existem algumas regrinhas nesse trabalho, como:
- * Existem só 3 agendamentos por mês.
- * Cada agendamento tem a sua própria cor de identificação.
- * Um agendamento não pode fazer mais de um frete no mesmo dia.
+ Esse projeto serve para alguma empresa que trabalhe com fretes souber quais carros e em quais dias eles terão que fazer essas entregas. Porém existem algumas regrinhas nesse trabalho, como:
+ * Existem 4 veículos para as realizações dos fretes.
+ * Cada veículo tem a sua própria cor de identificação.
+ * Um veículo não pode fazer mais de um frete no mesmo dia.
+ * Cada veículo pode realizar somente 3 fretes por mês.
  
 ## Técnicas e tecnologias utilizadas
  
@@ -26,5 +27,3 @@ Nesse projeto, foi criado um Calendário-web na matéria de:
 * CSS3
 * JavaScript
 * Live Server (A extensão Live Server permite criar um servidor local através do VSCode. Com ele, é cortado a necessidade de sempre que fizer uma alteração no código atualizar o navegador.)
- 
-tem menu de contexto
